@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # Restaurant Management System
 
 A full stack web application for restaurant management that allows **customers** to browse the menu, place online orders, and book tables while providing an **admin dashboard** to manage all restaurant operations such as menu items, reservations, and orders.
